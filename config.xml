@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	useThumbDots="true"
+	useFullscreenExpand="true"
+	galleryTitle="Archimedes: Life, Legend, Sources"
+	thumbFrameColor="rgba(204,204,204,.5)"
+	backgroundColor="rgba(51,51,51,1)"
+
+>
+  <image imageURL="images/1-title.jpg"
+	thumbURL="thumbs/1-title.jpg"
+	linkURL="images/1-title.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-title.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-01.02.jpg"
+	thumbURL="thumbs/1-01.02.jpg"
+	linkURL="images/1-01.02.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-01.02.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-3.4.jpg"
+	thumbURL="thumbs/1-3.4.jpg"
+	linkURL="images/1-3.4.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-3.4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-5.jpg"
+	thumbURL="thumbs/1-5.jpg"
+	linkURL="images/1-5.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-6.jpg"
+	thumbURL="thumbs/1-6.jpg"
+	linkURL="images/1-6.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-7.8.jpg"
+	thumbURL="thumbs/1-7.8.jpg"
+	linkURL="images/1-7.8.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-7.8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1-9.10.jpg"
+	thumbURL="thumbs/1-9.10.jpg"
+	linkURL="images/1-9.10.jpg"
+	linkTarget="_blank"
+	sourcePath="Z:\Archives\Web site\Dreamweaver-website\graphics\exhibit\Archi_1\1-9.10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
